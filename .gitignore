@@ -1,0 +1,3 @@
+data/opt.*
+data/output.*
+**/__pycache__/
